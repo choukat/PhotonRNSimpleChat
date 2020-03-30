@@ -1,6 +1,6 @@
 {
-  "name": "PhotonRNSimpleChat",
-  "version": "1.0.0",
+  "name": "photonrnsimplechat",
+  "version": "0.0.1",
   "description": "Simple React Native chat",
   "main": "index.js",
   "author": "Photon Studio",
