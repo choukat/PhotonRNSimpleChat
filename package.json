@@ -1,0 +1,12 @@
+{
+  "name": "PhotonRNSimpleChat",
+  "version": "1.0.0",
+  "description": "Simple React Native chat",
+  "main": "index.js",
+  "author": "Photon Studio",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-native-elements": "^1.2.7"
+  }
+}
